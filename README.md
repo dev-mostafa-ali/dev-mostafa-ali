@@ -13,21 +13,21 @@
 <h3 align='center'>🔥Some States</h3>
 
 <div align='center'>
-  <img alt='mostafa's github states' src='https://github-readme-stats.vercel.app/api?username=Mostafa-Ali-A&theme=transparent' />
+  <img alt='mostafa's Github states' src='https://github-readme-stats.vercel.app/api?username=Mostafa-Ali-A&theme=transparent' />
 </div>
 <br>
 
 <h3 align='center'>🔝Langagues & Technologies</h3>
 
 <div align='center'>
-  <img alt='mostafa's github langs' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Ali-A&theme=transparent' />
+  <img alt='mostafa's GitHub langs' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Ali-A&theme=transparent' />
 </div>
 <br>
 
 <h3 align='center'>⌛This Week Code Time</h3>
 
 <div align='center'>
-  <img alt='mostafa's wakatimes' src='https://github-readme-stats.vercel.app/api/wakatime?username=Mostafa_Ali&theme=transparent' />
+  <img alt='mostafa's waketime src='https://github-readme-stats.vercel.app/api/wakatime?username=Mostafa_Ali&theme=transparent' />
 </div>
 <br>
 
