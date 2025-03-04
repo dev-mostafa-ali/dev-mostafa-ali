@@ -104,12 +104,12 @@
 
 <img alt='html-badge' src='https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=HTML5&labelColor=%233366CC' height='10%' width='10%' />
 <br>
-
+<!--
 <img alt='mocha' src='https://github.com/Mostafa-Ali-A/Mostafa-Ali-A/assets/72570901/38dae12a-d620-47e8-8954-d849cbba71dd' height='10%' width='10%' />
 
 <img alt='jest' src='https://github.com/Mostafa-Ali-A/Mostafa-Ali-A/assets/72570901/3ed69665-e121-4252-991d-058b255ad0a4' height='10%' width='10%' />
 <br>
-<!--
+
 <img alt='mocha-badge' src='https://img.shields.io/badge/Mocha-%238D6748?style=for-the-badge&logo=Mocha&labelColor=%23212121' height='10%' width='10%' />
 
 <img alt='jest-badge' src='https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=Jest&labelColor=%23E34F26' height='10%' width='10%' />
