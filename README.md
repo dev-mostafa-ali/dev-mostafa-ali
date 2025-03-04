@@ -7,7 +7,7 @@
 <br>
 
 <h3 align='center'>📝 About</h3>
-<p>A Software Engineer[Mern Stack]. Building Web Applications using [React.js] and [Typescript] for the Frontend and [Node. js] for the Backend</p>
+<p>A Software Engineer[Mern Stack]. Building Web Applications using [Next.js] and [Typescript] for the Frontend and [Express.js] for the Backend</p>
 <br>
 
 <h3 align='center'>🔥Some States</h3>
@@ -109,14 +109,14 @@
 
 <img alt='jest' src='https://github.com/Mostafa-Ali-A/Mostafa-Ali-A/assets/72570901/3ed69665-e121-4252-991d-058b255ad0a4' height='10%' width='10%' />
 <br>
-
+<!--
 <img alt='mocha-badge' src='https://img.shields.io/badge/Mocha-%238D6748?style=for-the-badge&logo=Mocha&labelColor=%23212121' height='10%' width='10%' />
 
 <img alt='jest-badge' src='https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=Jest&labelColor=%23E34F26' height='10%' width='10%' />
 
 </div>
 <br>
-
+-->
 <h1 align='center'>📫Catch Me At</h1>
 <br>
 
