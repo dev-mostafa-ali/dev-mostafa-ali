@@ -113,10 +113,10 @@
 <img alt='mocha-badge' src='https://img.shields.io/badge/Mocha-%238D6748?style=for-the-badge&logo=Mocha&labelColor=%23212121' height='10%' width='10%' />
 
 <img alt='jest-badge' src='https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=Jest&labelColor=%23E34F26' height='10%' width='10%' />
-
+-->
 </div>
 <br>
--->
+
 <h1 align='center'>📫Catch Me At</h1>
 <br>
 
