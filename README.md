@@ -27,7 +27,7 @@
 <h3 align='center'>⌛This Week Code Time</h3>
 
 <div align='center'>
-  <img alt='mostafa's wakatime src='https://github-readme-stats.vercel.app/api/wakatime?username=dev-mostafa-ali&theme=transparent' />
+  <img alt='mostafa's wakatime src='https://github-readme-stats.vercel.app/api/wakatime?username=Mostafa_Ali&theme=transparent' />
 </div>
 <br>
 
